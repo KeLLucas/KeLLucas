@@ -22,18 +22,6 @@
 ###
 
 <br clear="both">
-<h2 align="left">📊 GitHub Stats:</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KeLLucas&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=solarized-dark&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
-</div>
-
-###
-
-<br clear="both">
-
 <h2 align="left">💻 Tech Stack:</h2>
 
 ###
@@ -52,10 +40,10 @@
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  <img height="280" src="https://gifdb.com/images/high/dark-aesthetic-anime-sdat-shinji-frmglswgu6tj5k3j.webp"  />
-</div>
+<h2 align="left">📊 GitHub Stats:</h2>
 
 ###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KeLLucas&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=solarized-dark&locale=en&hide_border=false&order=1" height="190" alt="stats graph"  />
+</div>
