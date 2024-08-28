@@ -11,7 +11,8 @@
 <h5 align="center">Olá, eu sou Kelvim! 👋<br>Sou um estudante de programação em início de carreira, apaixonado por aprender e explorar o mundo da tecnologia. Atualmente, estou focando em aprender sobre Full-Stack, e buscando sempre melhorar minhas habilidades.</h5>
 
 ###
-<br>
+
+<br clear="both">
 <h2 align="left">🌟 Projetos</h2>
 
 ###
@@ -20,14 +21,13 @@
 
 ###
 
-<br>
+<br clear="both">
 <h2 align="left">📊 GitHub Stats:</h2>
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=KeLLucas&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=solarized-dark&locale=en&hide_border=false&order=1" height="140" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KeLLucas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=solarized-dark&hide_border=false&order=2" height="140" alt="languages graph"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KeLLucas&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=solarized-dark&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
 </div>
 
 ###
@@ -40,11 +40,7 @@
 
 <br clear="both">
 
-<img align="right" height="135" src="https://gifdb.com/images/high/dark-aesthetic-anime-sdat-shinji-frmglswgu6tj5k3j.webp"  />
-
-###
-
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="40" alt="css3 logo"  />
@@ -58,6 +54,8 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/KeLLucas/KeLLucas/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img height="280" src="https://gifdb.com/images/high/dark-aesthetic-anime-sdat-shinji-frmglswgu6tj5k3j.webp"  />
+</div>
 
 ###
