@@ -1,23 +1,62 @@
 <!--
 **KeLLucas/KeLLucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-# 💫 About Me:
-<br>Olá, eu sou Kelvim! 👋<br>Sou um entusiasta da programação em início de carreira, apaixonado por aprender e explorar o mundo da tecnologia. Atualmente, estou focando em aprender sobre Full-Stack, e buscando sempre melhorar minhas habilidades.<br><br>🌟 Projetos<br><br>Atualmente, estou fazendo parte de um BootCamp Dev Jr.
 
+<h1 align="left">💫 About Me:</h1>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=KeLLucas&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KeLLucas&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+###
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=KeLLucas&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)
+<br clear="both">
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+<h5 align="center">Olá, eu sou Kelvim! 👋<br>Sou um estudante de programação em início de carreira, apaixonado por aprender e explorar o mundo da tecnologia. Atualmente, estou focando em aprender sobre Full-Stack, e buscando sempre melhorar minhas habilidades.</h5>
 
----
-[![](https://visitcount.itsvg.in/api?id=KeLLucas&icon=0&color=1)](https://visitcount.itsvg.in)
+###
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h2 align="left">🌟 Projetos</h2>
+
+###
+
+<h5 align="left">Atualmente, estou fazendo parte de um BootCamp Dev Jr.</h5>
+
+###
+
+<h2 align="left">📊 GitHub Stats:</h2>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=KeLLucas&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=solarized-dark&locale=en&hide_border=false&order=1" height="140" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KeLLucas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=solarized-dark&hide_border=false&order=2" height="120" alt="languages graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<h2 align="left">💻 Tech Stack:</h2>
+
+###
+
+<br clear="both">
+
+<img align="right" height="135" src="https://gifdb.com/images/high/dark-aesthetic-anime-sdat-shinji-frmglswgu6tj5k3j.webp"  />
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="40" alt="github logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/KeLLucas/KeLLucas/output/snake.svg" alt="Snake animation" />
+
+###
